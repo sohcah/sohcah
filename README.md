@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Sam 👋
+
+- ☕️ Developer of [CuppaZee](https://github.com/CuppaZee)
+- 👨🏻‍💻 Favourite Language: TypeScript
+- 🚫 Most Despised Language: Python
+
+[![@sohcah's Holopin board](https://holopin.me/sohcah)](https://holopin.io/@sohcah)
 
 <!--
 **sohcah/sohcah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
